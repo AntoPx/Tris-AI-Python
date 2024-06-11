@@ -1,3 +1,5 @@
+#Gioco del tris realizzato da ANTONINO GRANATA
+
 import tkinter as tk
 from tkinter import messagebox
 from tris_logic_AI import Tris, HumanPlayer, AIPlayer
